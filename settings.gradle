@@ -1,0 +1,2 @@
+rootProject.name = "Tab View Test"
+include ':app'
